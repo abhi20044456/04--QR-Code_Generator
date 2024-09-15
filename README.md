@@ -53,7 +53,11 @@ Example Output
 
 ### When running the program, you may see output similar to the following:
 Welcome to QR Code generator
-Enter the data or URL for the QR code: https://github.com/yourusername
+Enter the data or URL for the QR code: https://github.com/abhi20044456/04--QR-Code_Generator/
+![Youtube](https://github.com/user-attachments/assets/a4e0da88-6f0e-4855-9ef9-c7f565e3dedf)
+![Instagram ](https://github.com/user-attachments/assets/48e9e946-ab88-4100-832c-8468cc721972)
+![Google](https://github.com/user-attachments/assets/70765a9d-5bdd-4500-adbe-9378cac78249)
+
 Enter the file name to save the QR code: my_qr_code
 QR code saved as my_qr_code.png
 Thanks for using this QR code generator!
